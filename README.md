@@ -1,14 +1,36 @@
 # LSST_DSFP-review
-Review of the first 6 Sessions in LSST DSFP
+Review of the first 6 Sessions in LSST DSFP by [Dongming Jin](http://domij.info)
 
 TOC
 
 * [Curriculum in a map](#curr)
+* [Methodology in a map](#meth)
+* [WorkFlow in a map](#workflow)
+* [Appendix: linked Curriculum](#app)
 
+A few links
+- [LSST DSFP website](https://astrodatascience.org/)
+- [LSST DSFP Github Page](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions)
+- [About Me](http://dongming.uta.cloud/pages/about-me.html)
 
 ## <a name='curr'>Curriculum</a>
 
 ![](curriculum.png)
+
+
+## <a name='meth'>Methodology</a>
+
+![](Methodology_DS.png)
+
+## <a name='workflow'>WorkFlow</a>
+
+![](WorkFlow.png)
+
+See my [draft talk](http://dongming.uta.cloud/pdfs/WorkFlow.html#/title-slide) about adopting this workflow.
+
+
+## <a name='app'>Appendix: Linked Curriculum</a>
+
 
 ### Machine Learning
 
@@ -218,4 +240,3 @@ TOC
 #### S1D1: [intro](https://github.com/jakevdp/git-intro/blob/master/git-intro.ipynb)
 
 #### S1D1: [goal](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/master/Session1/Day1/DSFP_Goals.pdf)
-
