@@ -12,6 +12,7 @@ A few links
 - [LSST DSFP website](https://astrodatascience.org/)
 - [LSST DSFP Github Page](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions)
 - [About Me](http://dongming.uta.cloud/pages/about-me.html)
+- [My thought about the WorkFlow for Open Research](http://dongming.uta.cloud/workflow-and-methodology.html)
 
 ## <a name='curr'>Curriculum</a>
 
@@ -26,7 +27,7 @@ A few links
 
 ![](WorkFlow.png)
 
-See my [draft talk](http://dongming.uta.cloud/pdfs/WorkFlow.html#/title-slide) about adopting this workflow.
+See my [article](http://dongming.uta.cloud/workflow-and-methodology.html) and [draft talk](http://dongming.uta.cloud/pdfs/WorkFlow.html#/title-slide) about adopting this workflow.
 
 
 ## <a name='app'>Appendix: Linked Curriculum</a>
