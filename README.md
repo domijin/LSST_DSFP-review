@@ -25,9 +25,9 @@ A few links
 
 ## <a name='workflow'>WorkFlow</a>
 
-![](WorkFlow.png)
-
 See my [article](http://dongming.uta.cloud/workflow-and-methodology.html) and [draft talk](http://dongming.uta.cloud/pdfs/WorkFlow.html#/title-slide) about adopting this workflow.
+
+![](WorkFlow.png)
 
 
 ## <a name='app'>Appendix: Linked Curriculum</a>
